@@ -1,4 +1,4 @@
-def greeting
-  puts "Hello"
+def greeting(name) 
+  puts "Hello #{name}"
 end
-greeting 
+greeting(Jamil)
